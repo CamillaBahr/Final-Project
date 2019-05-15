@@ -1,0 +1,16 @@
+Stressors
+
+-- Percent of colonies affected by stressors anytime during the quarter. 
+	A colony may be affected by multiple stressors during the quarter
+
+1/ Tracheal mites, nosema, hive beetle, wax moths, etc.
+
+2/ Includes American and European foulbrood, chalkbrood, stonebrood, paralysis
+	 (acute and chronic), kashmir, deformed wing, sacbrood, 
+	  IAPV, Lake Sinai II, etc
+
+3/ Includes weather, starvation, insufficient forage, 
+	queen failure, hive damage/destroyed, etc.
+
+4/ Alaska, Delaware, Nevada, New Hampshire, and Rhode Island not published separately 
+	to avoid disclosing data for individual operations.
